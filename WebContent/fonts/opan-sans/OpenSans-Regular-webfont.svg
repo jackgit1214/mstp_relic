@@ -1,0 +1,1120 @@
+ory="_vEbnEWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDdmXoEea0velTILR1pA" elementId="org.eclipse.search.ui.openSearchDialog" commandName="Open Search Dialog" description="Open the Search dialog" category="_vEbnA2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDd2XoEea0velTILR1pA" elementId="org.eclipse.ui.file.openWorkspace" commandName="Switch Workspace" description="Open the workspace selection dialog" category="_vEbnFGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDeGXoEea0velTILR1pA" elementId="org.eclipse.wst.server.launchShortcut.debug" commandName="Debug on Server" description="Debug the current selection on a server" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDeWXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.pull.up" commandName="Pull Up" description="Move members to a superclass" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDemXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.CompareWithRevisionCommand" commandName="URL..." category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDe2XoEea0velTILR1pA" elementId="org.eclipse.ui.ide.configureFilters" commandName="Configure Contents..." description="Configure the filters to apply to the markers view" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDfGXoEea0velTILR1pA" elementId="org.eclipse.soa.sca.core.common.generateJavaSkeleton" commandName="Generate Java Skeleton" category="_vEbnEGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDfWXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.uncomment" commandName="Uncomment" description="Uncomment the selected JavaScript comment lines" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDfmXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.toggle.comment" commandName="Toggle Comment" description="Toggle comment the selected lines" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDf2XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.find.broken.nls.keys" commandName="Find Broken Externalized Strings" description="Finds undefined, duplicate and unused externalized string keys in property files" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDgGXoEea0velTILR1pA" elementId="org.eclipse.gef.text.alignCenter" commandName="Center" description="Align center" category="_vEbnCWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDgWXoEea0velTILR1pA" elementId="org.eclipse.wst.xsd.ui.refactor.renameTargetNamespace" commandName="Rename Target Namespace" description="Changes the target namespace of the schema" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDgmXoEea0velTILR1pA" elementId="org.eclipse.soa.sca.sca1_0.diagram.LoadResourceAction" commandName="Load Resource" category="_vEbnHmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDg2XoEea0velTILR1pA" elementId="org.eclipse.m2e.actions.LifeCycleGenerateSources.run" commandName="Run Maven Generate Sources" description="Run Maven Generate Sources" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDhGXoEea0velTILR1pA" elementId="org.eclipse.wst.sse.ui.cleanup.document" commandName="Cleanup Document..." description="Cleanup document" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDhWXoEea0velTILR1pA" elementId="org.springframework.ide.eclipse.aop.ui.inplace.show" commandName="Beans Quick Cross References" description="Shows the Beans cross references for the editor input" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDhmXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.uncomment" commandName="Uncomment" description="Uncomment the selected Java comment lines" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDh2XoEea0velTILR1pA" elementId="org.eclipse.wb.core.commands.switch" commandName="Switch Source/Design Views" description="Switch between the Source and Design views." category="_vEbm-mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDiGXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.goto.wordNext" commandName="Next Word" description="Go to the next word" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDiWXoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.addLocation" commandName="Add Repository Location" description="Add a new CVS repository location" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDimXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.UpdateToRevisionCommand" commandName="Update to Revision" category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDi2XoEea0velTILR1pA" elementId="org.eclipse.ui.navigate.up" commandName="Up" description="Navigate up one level" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDjGXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.correction.splitJoinVariableDeclaration.assist" commandName="Quick Assist - Split/Join variable declaration" description="Invokes quick assist and selects 'Split/Join variable declaration'" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDjWXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.goto.next.member" commandName="Go to Next Member" description="Move the caret to the next member of the JavaScript file" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDjmXoEea0velTILR1pA" elementId="org.eclipse.gef.text.ltr" commandName="Left to Right" description="Left to Right" category="_vEbnCWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDj2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.command.openRemoteTask" commandName="Open Remote Task" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDkGXoEea0velTILR1pA" elementId="org.eclipse.ui.window.closePerspective" commandName="Close Perspective" description="Close the current perspective" category="_vEbm9GXoEea0velTILR1pA">
+    <parameters xmi:id="_vEbDkWXoEea0velTILR1pA" elementId="org.eclipse.ui.window.closePerspective.perspectiveId" name="Perspective Id"/>
+  </commands>
+  <commands xmi:id="_vEbDkmXoEea0velTILR1pA" elementId="org.eclipse.ui.window.hideShowEditors" commandName="Toggle Editor Area Visibility" description="Toggles the visibility of the editor area" category="_vEbm9GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDk2XoEea0velTILR1pA" elementId="org.eclipse.egit.ui.history.Edit" commandName="Edit Commit" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDlGXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters" commandName="Change Function Signature" description="Change function signature includes parameter names and parameter order" category="_vEbnGmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDlWXoEea0velTILR1pA" elementId="org.eclipse.pde.ui.organizeManifest" commandName="Organize Manifests" description="Cleans up plug-in manifest files" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDlmXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.move" commandName="Move..." description="Move the selected item" category="_vEbnFGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDl2XoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.correction.renameInFile.assist" commandName="Quick Assist - Rename in file" description="Invokes quick assist and selects 'Rename in file'" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDmGXoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.updateAll" commandName="Update All Incoming Changes" description="Update all incoming changes with new content from the repository" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDmWXoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.command.addTaskRepository" commandName="Add Task Repository..." category="_vEbnIWXoEea0velTILR1pA">
+    <parameters xmi:id="_vEbDmmXoEea0velTILR1pA" elementId="connectorKind" name="Repository Type"/>
+  </commands>
+  <commands xmi:id="_vEbDm2XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.generate.tostring" commandName="Generate toString()" description="Generates the toString() method for the type" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDnGXoEea0velTILR1pA" elementId="org.eclipse.debug.ui.commands.OpenProfileConfigurations" commandName="Profile..." description="Open profile launch configuration dialog" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDnWXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.open.external.javadoc" commandName="Open Attached Javadoc" description="Open the attached Javadoc of the selected element in a browser" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDnmXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.correction.assignParamToField.assist" commandName="Quick Assist - Assign parameter to var" description="Invokes quick assist and selects 'Assign parameter to var'" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDn2XoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.search.declarations.in.project" commandName="Declaration in Project" description="Search for declarations of the selected element in the enclosing project" category="_vEbnA2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDoGXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.generate.hashcode.equals" commandName="Generate hashCode() and equals()" description="Generates hashCode() and equals() methods for the type" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDoWXoEea0velTILR1pA" elementId="org.eclipse.ui.browser.openBrowser" commandName="Open Browser" description="Opens the default web browser." category="_vEbm9GXoEea0velTILR1pA">
+    <parameters xmi:id="_vEbDomXoEea0velTILR1pA" elementId="url" name="URL"/>
+    <parameters xmi:id="_vEbDo2XoEea0velTILR1pA" elementId="browserId" name="Browser Id"/>
+    <parameters xmi:id="_vEbDpGXoEea0velTILR1pA" elementId="name" name="Browser Name"/>
+    <parameters xmi:id="_vEbDpWXoEea0velTILR1pA" elementId="tooltip" name="Browser Tooltip"/>
+  </commands>
+  <commands xmi:id="_vEbDpmXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.navigate.gototype" commandName="Go to Type" description="Go to Type" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDp2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.wikitext.ui.convertToEclipseHelpCommand" commandName="Generate Eclipse Help (*.html and *-toc.xml)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDqGXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.select.columnNext" commandName="Select Next Column" description="Select the next column" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDqWXoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.merge" commandName="Merge" description="Merge" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDqmXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.LockCommand" commandName="Lock..." category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDq2XoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.localJavaShortcut.debug" commandName="Debug Java Application" description="Debug Java Application" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDrGXoEea0velTILR1pA" elementId="org.eclipse.jst.pagedesigner.source" commandName="Source Code" category="_vEbnC2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDrWXoEea0velTILR1pA" elementId="org.eclipse.team.ui.synchronizeLast" commandName="Repeat last synchronization" description="Repeat the last synchronization" category="_vEbnCmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDrmXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.extract.local.variable" commandName="Extract Local Variable" description="Extracts an expression into a new local variable and uses the new local variable" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDr2XoEea0velTILR1pA" elementId="org.eclipse.jwt.we.alignRightCommand" commandName="Alignment right" description="Align the selected elements to the right" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDsGXoEea0velTILR1pA" elementId="org.eclipse.wst.xml.ui.previousSibling" commandName="Previous Sibling" description="Go to Previous Sibling" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDsWXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.select.previous" commandName="Select Previous Element" description="Expand selection to include previous sibling" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDsmXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.goto.columnNext" commandName="Next Column" description="Go to the next column" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDs2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.command.searchForTask" commandName="Search Repository for Task" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDtGXoEea0velTILR1pA" elementId="org.eclipse.ui.help.aboutAction" commandName="About" description="Open the about dialog" category="_vEbnJGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDtWXoEea0velTILR1pA" elementId="org.eclipse.mylyn.context.ui.commands.interest.decrement" commandName="Make Less Interesting" description="Make Less Interesting" category="_vEbnDGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDtmXoEea0velTILR1pA" elementId="org.eclipse.compare.copyRightToLeft" commandName="Copy from Right to Left" description="Copy Current Change from Right to Left" category="_vEbnJWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDt2XoEea0velTILR1pA" elementId="org.eclipse.m2e.core.pomFileAction.run" commandName="Run Maven Build" description="Run Maven Build" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDuGXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.clean.up" commandName="Clean Up" description="Solve problems and improve code style on selected resources" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDuWXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.extract.method" commandName="Extract Method" description="Extract a set of statements or an expression into a new method and use the new method" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDumXoEea0velTILR1pA" elementId="org.eclipse.pde.ui.quickOutline" commandName="Quick Outline" description="Open a quick outline popup dialog for a given editor input" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDu2XoEea0velTILR1pA" elementId="org.eclipse.datatools.sqltools.sqleditor.refreshFromDatabaseAction" commandName="Refresh from Database" category="_vEbm9WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDvGXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.CreatePatchCommand" commandName="Create Patch..." category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDvWXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.search.references.in.project" commandName="References in Project" description="Search for references to the selected element in the enclosing project" category="_vEbnA2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDvmXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy" commandName="Quick Hierarchy" description="Show the quick hierarchy of the selected element" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDv2XoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.ShowAnnotationCommand" commandName="Show Annotation..." category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDwGXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.AddToSVNIgnoreCommand" commandName="Add to svn:ignore..." category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDwWXoEea0velTILR1pA" elementId="org.eclipse.datatools.sqltools.sqleditor.GotoMatchingTokenAction" commandName="Goto Matching Token" category="_vEbm9WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDwmXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.newProcessCommand" commandName="New Process..." description="Creates a new process" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDw2XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.correction.addThrowsDecl" commandName="Quick Fix - Add throws declaration" description="Invokes quick assist and selects 'Add throws declaration'" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDxGXoEea0velTILR1pA" elementId="org.eclipse.ui.activeContextInfo" commandName="Show activeContext Info" category="_vEbm9GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDxWXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.override.methods" commandName="Override/Implement Functions" description="Override or implement functions from super types" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDxmXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.generate.constructor.using.fields" commandName="Generate Constructor using Vars" description="Choose vars to initialize and constructor from superclass to call " category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDx2XoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.compareWithTag" commandName="Compare With Another Branch or Version" description="Compare with a Branch or a Version on the CVS Server" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDyGXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.alignBottomCommand" commandName="Alignment bottom" description="Align the selected elements to the bottom" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDyWXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.showPropertiesViewCommand" commandName="Show Properties" description="Show Properties View" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDymXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.findNext" commandName="Find Next" description="Find next item" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDy2XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.correction.addSuppressWarnings" commandName="Quick Fix - Add @SuppressWarnings" description="Invokes quick fix and selects 'Add @SuppressWarnings' " category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDzGXoEea0velTILR1pA" elementId="org.eclipse.debug.ui.commands.Disconnect" commandName="Disconnect" description="Disconnect" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDzWXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.correction.extractLocal.assist" commandName="Quick Assist - Extract local variable" description="Invokes quick assist and selects 'Extract local variable'" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDzmXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.commit.CreateTag" commandName="Create Tag..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbDz2XoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.correction.addSuppressWarnings" commandName="Quick Fix - Add @SuppressWarnings" description="Invokes quick fix and selects 'Add @SuppressWarnings' " category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD0GXoEea0velTILR1pA" elementId="org.eclipse.pde.ui.junitWorkbenchShortcut.debug" commandName="Debug JUnit Plug-in Test" description="Debug JUnit Plug-in Test" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD0WXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.show.outline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD0mXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.newDataCommand" commandName="New Data..." description="Creates a new data" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD02XoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.setKeywordSubstitution" commandName="Change ASCII/Binary Property" description="Change whether the selected resources should be treated as ASCII or binary on the CVS Server" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD1GXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.internal.reflog.CheckoutCommand" commandName="Checkout" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD1WXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.search.references.in.working.set" commandName="References in Working Set" description="Search for references to the selected element in a working set" category="_vEbnA2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD1mXoEea0velTILR1pA" elementId="org.eclipse.ajdt.launching.runShortcut.run" commandName="Run AspectJ/Java Application" description="Run AspectJ/Java Application" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD12XoEea0velTILR1pA" elementId="org.eclipse.ui.help.quickStartAction" commandName="Welcome" description="Show help for beginning users" category="_vEbnJGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD2GXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.addTask" commandName="Add Task..." description="Add a task" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD2WXoEea0velTILR1pA" elementId="org.eclipse.ui.editors.quickdiff.revertLine" commandName="Revert Line" description="Revert the current line" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD2mXoEea0velTILR1pA" elementId="org.eclipse.debug.ui.command.prevpage" commandName="Previous Page of Memory" description="Load previous page of memory" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD22XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.push.down" commandName="Push Down" description="Move members to subclasses" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD3GXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.SourceView" commandName="JavaScript Declaration" description="Show the Declaration view" category="_vEbm92XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD3WXoEea0velTILR1pA" elementId="org.eclipse.ant.ui.toggleMarkOccurrences" commandName="Toggle Ant Mark Occurrences" description="Toggles mark occurrences in Ant editors" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD3mXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.correction.qualifyField" commandName="Quick Fix - Qualify var access" description="Invokes quick assist and selects 'Qualify var access'" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD32XoEea0velTILR1pA" elementId="org.eclipse.ltk.ui.refactor.create.refactoring.script" commandName="Create Script" description="Create a refactoring script from refactorings on the local workspace" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD4GXoEea0velTILR1pA" elementId="org.eclipse.m2e.core.ui.command.addPlugin" commandName="Add Maven Plugin" description="Add Maven Plugin" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD4WXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.delimiter.windows" commandName="Convert Line Delimiters to Windows (CRLF, \r\n, 0D0A, &#xa4;&#xb6;)" description="Converts the line delimiters to Windows (CRLF, \r\n, 0D0A, &#xa4;&#xb6;)" category="_vEbnFGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD4mXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.cut.line" commandName="Cut Line" description="Cut a line of text" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD42XoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.select.columnPrevious" commandName="Select Previous Column" description="Select the previous column" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD5GXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.CompareWithWorkingCopyCommand" commandName="Base from Working Copy" category="_vEbnBmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD5WXoEea0velTILR1pA" elementId="org.eclipse.ui.file.closeAll" commandName="Close All" description="Close all editors" category="_vEbnFGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD5mXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.promote.local.variable" commandName="Convert Local Variable to Field" description="Convert a local variable to a field" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD52XoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.select.wordNext" commandName="Select Next Word" description="Select the next word" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD6GXoEea0velTILR1pA" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="_vEbm9GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD6WXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.team.submodule.sync" commandName="Sync Submodule" category="_vEbnAGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD6mXoEea0velTILR1pA" elementId="org.eclipse.ui.window.quickAccess" commandName="Quick Access" description="Quickly access UI elements" category="_vEbm9GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD62XoEea0velTILR1pA" elementId="org.eclipse.jwt.we.newRoleCommand" commandName="New Role..." description="Creates a new role" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD7GXoEea0velTILR1pA" elementId="org.eclipse.ui.navigate.addToWorkingSet" commandName="Add to Working Set" description="Adds the selected object to a working set." category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD7WXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.goto.next.member" commandName="Go to Next Member" description="Move the caret to the next member of the compilation unit" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD7mXoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.command.markTaskReadGoToNextUnread" commandName="Mark Task Read and Go To Next Unread Task" category="_vEbnIWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD72XoEea0velTILR1pA" elementId="org.springframework.ide.eclipse.beans.ui.addToNewConfigSet" commandName="Add To New Config Set..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD8GXoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.commands.ForceReturn" commandName="Force Return" description="Forces return from method with value of selected expression " category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD8WXoEea0velTILR1pA" elementId="org.eclipse.pde.ui.runtimeWorkbenchShortcut.run" commandName="Run Eclipse Application" description="Run Eclipse Application" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD8mXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.open.call.hierarchy" commandName="Open Call Hierarchy" description="Open a call hierarchy on the selected element" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD82XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.remove.block.comment" commandName="Remove Block Comment" description="Remove the block comment enclosing the selection" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD9GXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.team.CreatePatch" commandName="Create Patch" category="_vEbnAGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD9WXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.RepositoriesViewImportProjects" commandName="Import Projects..." description="Import or create in local Git repository" category="_vEbnAGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD9mXoEea0velTILR1pA" elementId="org.springsource.ide.eclipse.commons.ui.stop" commandName="Stop Application" description="Stop last launched application" category="_vEbm_GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD92XoEea0velTILR1pA" elementId="org.eclipse.ui.navigate.showIn" commandName="Show In" category="_vEbnJmXoEea0velTILR1pA">
+    <parameters xmi:id="_vEbD-GXoEea0velTILR1pA" elementId="org.eclipse.ui.navigate.showIn.targetId" name="Show In Target Id" optional="false"/>
+  </commands>
+  <commands xmi:id="_vEbD-WXoEea0velTILR1pA" elementId="org.eclipse.datatools.sqltools.sqleditor.DMLDialogSelectionAction" commandName="Edit in SQL Query Builder..." category="_vEbm9WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD-mXoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.javaAppletShortcut.run" commandName="Run Java Applet" description="Run Java Applet" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD-2XoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.copy.qualified.name" commandName="Copy Qualified Name" description="Copy a fully qualified name to the system clipboard" category="_vEbm_WXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD_GXoEea0velTILR1pA" elementId="org.eclipse.mylyn.discovery.ui.discoveryWizardCommand" commandName="Discovery Wizard" description="shows the connector discovery wizard" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD_WXoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.commands.AllReferences" commandName="All References" description="Inspect all references to the selected object" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD_mXoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.command.OpenFromClipboard" commandName="Open from Clipboard" description="Opens a Java element or a Java stack trace from clipboard" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbD_2XoEea0velTILR1pA" elementId="org.eclipse.equinox.p2.ui.discovery.commands.ShowRepositoryCatalog" commandName="Show Repository Catalog" category="_vEbnBWXoEea0velTILR1pA">
+    <parameters xmi:id="_vEbEAGXoEea0velTILR1pA" elementId="org.eclipse.equinox.p2.ui.discovery.commands.RepositoryParameter" name="P2 Repository URI"/>
+  </commands>
+  <commands xmi:id="_vEbEAWXoEea0velTILR1pA" elementId="org.eclipse.m2e.editor.RenameArtifactAction" commandName="Rename Maven Artifact..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEAmXoEea0velTILR1pA" elementId="org.eclipse.ui.window.nextPerspective" commandName="Next Perspective" description="Switch to the next perspective" category="_vEbm9GXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEA2XoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.extract.constant" commandName="Extract Constant" description="Extracts a constant into a new static field and uses the new static field" category="_vEbnKGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEBGXoEea0velTILR1pA" elementId="org.eclipse.ui.edit.text.hippieCompletion" commandName="Word Completion" description="Context insensitive completion" category="_vEbnBGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEBWXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.gridSnapCommand" commandName="Toggle automatic snap to grid" description="Toggle automatic snap to grid function" category="_vEbnImXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEBmXoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.sync" commandName="Synchronize with Repository" description="Synchronize the workspace resources with those in the repository" category="_vEbm8mXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEB2XoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.folding.collapseComments" commandName="Collapse Comments" description="Collapse all comments" category="_vEbnIGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbECGXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.open.type.hierarchy" commandName="Open Type Hierarchy" description="Open a type hierarchy on the selected element" category="_vEbnJmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbECWXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.edit.text.java.add.javadoc.comment" commandName="Add Javadoc Comment" description="Add a Javadoc comment stub to the member element" category="_vEbnDmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbECmXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.history.Reword" commandName="Reword Commit" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEC2XoEea0velTILR1pA" elementId="org.eclipse.egit.ui.RepositoriesViewConfigureFetch" commandName="Configure Fetch..." category="_vEbnAGXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEDGXoEea0velTILR1pA" elementId="org.eclipse.mylyn.wikitext.context.ui.editor.folding.auto" commandName="Toggle Active Folding" description="Toggle Active Folding" category="_vEbnG2XoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEDWXoEea0velTILR1pA" elementId="org.eclipse.debug.ui.commands.Resume" commandName="Resume" description="Resume" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEDmXoEea0velTILR1pA" elementId="org.eclipse.jdt.debug.ui.commands.Execute" commandName="Execute" description="Evaluate selected text" category="_vEbnFmXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbED2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ant.ui.actionSet.presentation/org.eclipse.ant.ui.toggleAutoReconcile" commandName="Toggle Ant Editor Auto Reconcile" description="Toggle Ant Editor Auto Reconcile" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEEGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunWithConfigurationAction" commandName="Run As" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEEWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunHistoryMenuAction" commandName="Run History" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEEmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunDropDownAction" commandName="Run" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEE2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugWithConfigurationAction" commandName="Debug As" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEFGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugHistoryMenuAction" commandName="Debug History" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEFWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugDropDownAction" commandName="Debug" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEFmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileDropDownAction" commandName="Profile" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEF2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileWithConfigurationAction" commandName="Profile As" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEGGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileHistoryMenuAction" commandName="Profile History" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEGWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.ui.JavaElementCreationActionSet/org.eclipse.jdt.ui.actions.NewTypeDropDown" commandName="Class..." description="New Java Class" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEGmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.ui.JavaElementCreationActionSet/org.eclipse.jdt.ui.actions.OpenPackageWizard" commandName="Package..." description="New Java Package" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEG2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.ui.JavaElementCreationActionSet/org.eclipse.jdt.ui.actions.OpenProjectWizard" commandName="Java Project..." description="New Java Project" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEHGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.ui.SearchActionSet/org.eclipse.jdt.ui.actions.OpenJavaSearchPage" commandName="Java..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEHWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.cheatsheets.actionSet/org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" commandName="Cheat Sheets..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEHmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.search.searchActionSet/org.eclipse.search.OpenSearchDialogPage" commandName="Search..." description="Search" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEH2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.team.ui.actionSet/org.eclipse.team.ui.synchronizeAll" commandName="Synchronize..." description="Synchronize..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEIGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.team.ui.actionSet/org.eclipse.team.ui.ConfigureProject" commandName="Share Project..." description="Share the project with others using a version and configuration management system." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEIWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.externaltools.ExternalToolsSet/org.eclipse.ui.externaltools.ExternalToolMenuDelegateMenu" commandName="External Tools" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEImXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.java.actionSet.browsing/org.eclipse.mylyn.java.ui.actions.ApplyMylynToBrowsingPerspectiveAction" commandName="Focus Browsing Perspective" description="Focus Java Browsing Views on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEI2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.doc.actionSet/org.eclipse.mylyn.tasks.ui.bug.report" commandName="Report Bug or Enhancement..." description="Report Bug or Enhancement" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEJGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.navigation.additions/org.eclipse.mylyn.tasks.ui.navigate.task.history" commandName="Activate Previous Task" description="Activate Previous Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEJWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wb.core.ui.actionset/org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction" commandName="New Visual Class" description="Create new visual classes" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEJmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.pde.ui.SearchActionSet/org.eclipse.pde.ui.actions.OpenPluginSearchPage" commandName="Plug-in..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEJ2XoEea0velTILR1pA" elementId="AUTOGEN:::com_sysdeo_eclipse_tomcat_actionSet/com.sysdeo.eclipse.tomcat.restart" commandName="Restart Tomcat" description="&amp;Restart Tomcat" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEKGXoEea0velTILR1pA" elementId="AUTOGEN:::com_sysdeo_eclipse_tomcat_actionSet/com.sysdeo.eclipse.tomcat.stop" commandName="Stop Tomcat" description="S&amp;top Tomcat" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEKWXoEea0velTILR1pA" elementId="AUTOGEN:::com_sysdeo_eclipse_tomcat_actionSet/com.sysdeo.eclipse.tomcat.start" commandName="Start Tomcat" description="&amp;Start Tomcat" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEKmXoEea0velTILR1pA" elementId="AUTOGEN:::ajelementCreation/openajprojectwizard" commandName="AspectJ Project..." description="New AspectJ Project" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEK2XoEea0velTILR1pA" elementId="org.springframework.ide.eclipse.aop.ui.matcher.actions.opePointcutMatcherPage" commandName="Pointcut Matches..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbELGXoEea0velTILR1pA" elementId="AUTOGEN:::org.springsource.ide.eclipse.commons.launch.actionSet/org.springsource.ide.eclipse.commons.launch.relaunch.action" commandName="Relaunch" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbELWXoEea0velTILR1pA" elementId="AUTOGEN:::org.springsource.ide.eclipse.commons.launch.actionSet/org.springsource.ide.eclipse.commons.launch.stop.action" commandName="Terminate" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbELmXoEea0velTILR1pA" elementId="AUTOGEN:::com.springsource.sts.ide.ui.actionSet.workbench/com.springsource.sts.ide.ui.action.dashboard" commandName="Dashboard" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEL2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.datatools.sqltools.sqlscrapbook.actionSet/org.eclipse.datatools.sqltools.sqlscrapbook.actions.OpenScrapbookAction" commandName="Open SQL Scrapbook" description="Open scrapbook to edit SQL statements" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEMGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jst.j2ee.J2eeMainActionSet/org.eclipse.jst.j2ee.internal.actions.NewJavaEEArtifact" commandName="Servlet" description="Create a new Servlet" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEMWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jst.j2ee.J2eeMainActionSet/org.eclipse.jst.j2ee.internal.actions.NewJavaEEProject" commandName="Dynamic Web Project" description="Create a Dynamic Web project" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEMmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet/org.eclipse.wst.jsdt.ui.actions.OpenFileWizard" commandName="JavaScript Source File" description="New JavaScript file" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEM2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet/org.eclipse.wst.jsdt.ui.actions.OpenProjectWizard" commandName="JavaScript Project..." description="New JavaScript Project" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbENGXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.refactor.show.refactoring.history" commandName="History..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbENWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.ui.SearchActionSet/org.eclipse.wst.jsdt.ui.actions.OpenJavaSearchPage" commandName="JavaScript..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbENmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.server.ui.new.actionSet/org.eclipse.wst.server.ui.action.new.server" commandName="Create Server" description="Create Server" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEN2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.server.ui.internal.webbrowser.actionSet/org.eclipse.wst.server.ui.internal.webbrowser.action.open" commandName="Open Web Browser" description="Open Web Browser" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEOGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.server.ui.internal.webbrowser.actionSet/org.eclipse.wst.server.ui.internal.webbrowser.action.switch" commandName="Web Browser" description="Web Browser" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEOWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.web.ui.wizardsActionSet/org.eclipse.wst.web.ui.actions.newCSSFile" commandName="CSS" description="Create a new Cascading Style Sheet" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEOmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.web.ui.wizardsActionSet/org.eclipse.wst.web.ui.actions.newJSFile" commandName="JavaScript" description="Create a new JavaScript file" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEO2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.web.ui.wizardsActionSet/org.eclipse.wst.web.ui.actions.newHTMLFile" commandName="HTML" description="Create a new HTML page" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEPGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.ws.explorer.explorer/org.eclipse.wst.ws.internal.explorer.action.LaunchWSEAction" commandName="Launch the Web Services Explorer" description="Launch the Web Services Explorer" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEPWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.team.svn.ui.action.shortcuts/org.eclipse.team.svn.ui.action.local.management.DisconnectAction" commandName="Disconnect" description="Disconnect from the SVN repository" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEPmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ant.ui.BreakpointRulerActions/org.eclipse.ant.ui.actions.ManageBreakpointRulerAction" commandName="Toggle Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEP2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction" commandName="Toggle Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEQGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ClassFileEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction" commandName="Toggle Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEQWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.JavaSnippetToolbarActions/org.eclipse.jdt.debug.ui.SnippetExecute" commandName="Execute" description="Execute the Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEQmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.JavaSnippetToolbarActions/org.eclipse.jdt.debug.ui.SnippetDisplay" commandName="Display" description="Display Result of Evaluating Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEQ2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.JavaSnippetToolbarActions/org.eclipse.jdt.debug.ui.SnippetInspect" commandName="Inspect" description="Inspect Result of Evaluating Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbERGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.BookmarkRulerAction" commandName="Java Editor Bookmark Ruler Action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbERWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction" commandName="Java Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbERmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.internal.ui.ClassFileEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction" commandName="Java Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbER2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.internal.ui.PropertiesFileEditor.ruler.actions/org.eclipse.jdt.internal.ui.propertiesfileeditor.BookmarkRulerAction" commandName="Java Editor Bookmark Ruler Action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbESGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.internal.ui.PropertiesFileEditor.ruler.actions/org.eclipse.jdt.internal.ui.propertiesfileeditor.SelectRulerAction" commandName="Java Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbESWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Text Editor Bookmark Ruler Action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbESmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Text Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbES2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.m2e.jdt.ui.downloadSourcesContribution/org.eclipse.m2e.jdt.ui.downloadSourcesAction" commandName="label" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbETGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.m2e.jdt.ui.downloadSourcesContribution_38/org.eclipse.m2e.jdt.ui.downloadSourcesAction_38" commandName="label" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbETWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction" commandName="label" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbETmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ajdt.ui.AJEditor.BreakpointRulerActions/org.eclipse.ajdt.ui.actions.ManageBreakpointRulerAction" commandName="AspectJ editor action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbET2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ajdt.ui.AJEditor.AdviceRulerActions/org.eclipse.ajdt.ui.actions.AdviceActionDelegate" commandName="AspectJ editor action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbEUGXoEea0velTILR1pA" elementId="Ctrl+D" commandName="Duplicate" description="Duplicate the selected object." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmgGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.bpel.ui.bpel.editor.contribution/org.eclipse.bpel.ui.saveasimage.action" commandName="Export as Image..." description="Export BPEL as image..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmgWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.datatools.sqltools.rullerDoubleClick/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction" commandName="Add Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmgmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.exporter.genModelEditorContribution/org.eclipse.emf.exporter.ui.GenModelExportActionDelegate.Editor" commandName="Export Model..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmg2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.importer.genModelEditorContribution/org.eclipse.emf.importer.ui.GenModelReloadActionDelegate.Editor" commandName="Reload..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmhGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.action.RemoveMappingActionID" commandName="Remove Mapping" description="Remove the mapping associated with the selected objects." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmhWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.action.TypeMatchMappingActionID" commandName="Match Mapping by Type" description="Create child mappings automatically by type." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmhmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.action.NameMatchMappingActionID" commandName="Match Mapping by Name" description="Create child mappings automatically by name." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmh2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.action.CreateOneSidedMappingActionID" commandName="Create One-sided Mapping" description="Create a new mapping for the selected object." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmiGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.action.CreateMappingActionID" commandName="Create Mapping" description="Create a new mapping between the selected objects." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmiWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.ecore2ecore.action.AddOuputRootActionID" commandName="Add Output Root..." description="Add new output root." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmimXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.emf.mapping.ecore2ecore.presentation.Ecore2EcoreContributionID/org.eclipse.emf.mapping.ecore2ecore.action.AddInputRootActionID" commandName="Add Input Root..." description="Add new input root." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmi2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jst.jsp.core.jspsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmjGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jst.jsp.core.jspsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmjWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.css.core.csssource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmjmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.css.core.csssource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmj2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.dtd.core.dtdsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmkGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.dtd.core.dtdsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmkWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.html.core.htmlsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmkmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.html.core.htmlsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmk2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.debug.ui.togglebreakpoint/org.eclipse.wst.jsdt.debug.ui.RulerToggleBreakpoint" commandName="Toggle Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmlGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.wst.jsdt.internal.ui.javaeditor.BookmarkRulerAction" commandName="JavaScript Editor Bookmark Ruler Action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmlWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.wst.jsdt.internal.ui.javaeditor.JavaSelectRulerAction" commandName="JavaScript Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmlmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.internal.ui.ClassFileEditor.ruler.actions/org.eclipse.wst.jsdt.internal.ui.javaeditor.JavaSelectRulerAction" commandName="JavaScript Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbml2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.internal.ui.PropertiesFileEditor.ruler.actions/org.eclipse.wst.jsdt.internal.ui.propertiesfileeditor.BookmarkRulerAction" commandName="JavaScript Editor Bookmark Ruler Action" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmmGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.jsdt.internal.ui.PropertiesFileEditor.ruler.actions/org.eclipse.wst.jsdt.internal.ui.propertiesfileeditor.SelectRulerAction" commandName="JavaScript Editor Ruler Single-Click" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmmWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.articles.action.contribution.editor/org.eclipse.wst.wsdl.ui.actions.ReloadDependenciesActionDelegate" commandName="Reload Dependencies" description="Reload Dependencies" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmmmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.wsdl.wsdlsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmm2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.wsdl.wsdlsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmnGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.core.runtime.xml.source.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmnWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.core.runtime.xml.source.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmnmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.xsd.core.xsdsource.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Add Bookmark..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmn2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.wst.xsd.core.xsdsource.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Select Ruler" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmoGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.PulldownActions/org.eclipse.debug.ui.debugview.pulldown.ViewManagementAction" commandName="View Management..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmoWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.debugview.toolbar/org.eclipse.debug.ui.debugview.toolbar.removeAllTerminated" commandName="Remove All Terminated" description="Remove All Terminated Launches" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmomXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.removeAll" commandName="Remove All" description="Remove All Breakpoints" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmo2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.linkWithDebugView" commandName="Link with Debug View" description="Link with Debug View" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmpGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.workingSets" commandName="Working Sets..." description="Manage Working Sets" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmpWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.clearDefaultBreakpointGroup" commandName="Deselect Default Working Set" description="Deselect Default Working Set" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmpmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.setDefaultBreakpointGroup" commandName="Select Default Working Set..." description="Select Default Working Set" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmp2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.groupByAction" commandName="Group By" description="Show" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmqGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.expressionsView.toolbar/org.eclipse.debug.ui.expresssionsView.toolbar.removeAll" commandName="Remove All" description="Remove All Expressions" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmqWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.expressionsView.toolbar/org.eclipse.debug.ui.expresssionsView.toolbar.AddWatchExpression" commandName="Add Watch Expression..." description="Create a new watch expression" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmqmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.PinMemoryBlockAction" commandName="Pin Memory Monitor" description="Pin Memory Monitor" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmq2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.NewMemoryViewAction" commandName="New Memory View" description="New Memory View" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmrGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.togglemonitors" commandName="Toggle Memory Monitors Pane" description="Toggle Memory Monitors Pane" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmrWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.linkrenderingpanes" commandName="Link Memory Rendering Panes" description="Link Memory Rendering Panes" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmrmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.tablerendering.preferencesaction" commandName="Table Renderings Preferences..." description="&amp;Table Renderings Preferences..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmr2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.togglesplitpane" commandName="Toggle Split Pane" description="Toggle Split Pane" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmsGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.switchMemoryBlock" commandName="Switch Memory Monitor" description="Switch Memory Monitor" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmsWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.memoryViewPreferencesAction" commandName="Preferences..." description="&amp;Preferences..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmsmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.Preferences" commandName="Java Preferences..." description="Opens preferences for Java variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbms2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variablesViewActions.AllReferencesInView" commandName="Show References" description="Shows references to each object in the variables view as an array of objects." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmtGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowNullEntries" commandName="Show Null Array Entries" description="Show Null Array Entries" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmtWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmtmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowStatic" commandName="Show Static Variables" description="Show Static Variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmt2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowConstants" commandName="Show Constants" description="Show Constants" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmuGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.variableViewActions.Preferences" commandName="Java Preferences..." description="Opens preferences for Java variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmuWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.AllReferencesInView" commandName="Show References" description="Show &amp;References" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmumXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowNullEntries" commandName="Show Null Array Entries" description="Show Null Array Entries" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmu2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmvGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowStatic" commandName="Show Static Variables" description="Show Static Variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmvWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowConstants" commandName="Show Constants" description="Show Constants" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmvmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.BreakpointViewActions/org.eclipse.jdt.debug.ui.actions.AddException" commandName="Add Java Exception Breakpoint" description="Add Java Exception Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmv2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.BreakpointViewActions/org.eclipse.jdt.debug.ui.breakpointViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmwGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.LaunchViewActions/org.eclipse.jdt.debug.ui.launchViewActions.ShowThreadGroups" commandName="Show Thread Groups" description="Show Thread Groups" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmwWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.LaunchViewActions/org.eclipse.jdt.debug.ui.launchViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmwmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.LaunchViewActions/org.eclipse.jdt.debug.ui.launchViewActions.ShowSystemThreads" commandName="Show System Threads" description="Show System Threads" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmw2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.LaunchViewActions/org.eclipse.jdt.debug.ui.launchViewActions.ShowMonitorThreadInfo" commandName="Show Monitors" description="Show the Thread &amp; Monitor Information" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmxGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Watch" commandName="Watch" description="Create a Watch Expression from the Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmxWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Execute" commandName="Execute" description="Execute the Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmxmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Display" commandName="Display" description="Display Result of Evaluating Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmx2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Inspect" commandName="Inspect" description="Inspect Result of Evaluating Selected Text" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmyGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.context.ui.outline.contribution/org.eclipse.mylyn.context.ui.contentOutline.focus" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmyWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.java.ui.markers.breakpoints.contribution/org.eclipse.mylyn.java.ui.actions.focus.markers.breakpoints" commandName="Focus on Active Task" description="Focus on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmymXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.debug.view.contribution/org.eclipse.mylyn.ui.actions.FilterResourceNavigatorAction" commandName="Focus on Active Task (Experimental)" description="Focus on Active Task (Experimental)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmy2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.projectexplorer.filter/org.eclipse.mylyn.ide.ui.actions.focus.projectExplorer" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmzGXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.resource.navigator.filter/org.eclipse.mylyn.ide.ui.actions.focus.resourceNavigator" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmzWXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.problems.contribution/org.eclipse.mylyn.ide.ui.actions.focus.markers.problems" commandName="Focus on Active Task" description="Focus on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmzmXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.markers.all.contribution/org.eclipse.mylyn.ide.ui.actions.focus.markers.all" commandName="Focus on Active Task" description="Focus on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbmz2XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.markers.tasks.contribution/org.eclipse.mylyn.ide.ui.actions.focus.markers.tasks" commandName="Focus on Active Task" description="Focus on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm0GXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.markers.bookmarks.contribution/org.eclipse.mylyn.ide.ui.actions.focus.markers.bookmarks" commandName="Focus on Active Task" description="Focus on Active Task" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm0WXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.java.explorer.contribution/org.eclipse.mylyn.java.actions.focus.packageExplorer" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm0mXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.tasks.ui.search.open" commandName="Search Repository..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm02XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.tasks.ui.synchronize.changed" commandName="Synchronize Changed" description="Synchronize Changed" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm1GXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.tasks.ui.tasks.restore" commandName="Restore Tasks from History..." category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm1WXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.tasks.ui.open.repositories.view" commandName="Show Task Repositories View" description="Show Task Repositories View" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm1mXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.doc.legend.show.action" commandName="Show UI Legend" description="Show Tasks UI Legend" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm12XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.context.ui.actions.tasklist.focus" commandName="Focus on Workweek" description="Focus on Workweek" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm2GXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.pde.ui.logViewActions/org.eclipse.jdt.debug.ui.LogViewActions.showStackTrace" commandName="Show Stack Trace in Console View" description="Show Stack Trace in Console View" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm2WXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.resource.navigator.filter/org.eclipse.ajdt.mylyn.ui.actions.xRef" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm2mXoEea0velTILR1pA" elementId="AUTOGEN:::org.springframework.ide.eclipse.aop.mylyn.ui.filter/org.springframework.ide.eclipse.beans.mylyn.ui.actions.filterSpringExplorerAction" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm22XoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.mylyn.ui.projectexplorer.filter/org.springframework.ide.eclipse.beans.mylyn.ui.actions.filterSpringExplorerAction" commandName="Focus on Active Task" description="Focus on Active Task (Alt+click to reveal filtered elements)" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm3GXoEea0velTILR1pA" elementId="AUTOGEN:::org.springframework.ide.eclipse.ui.navigator.springExplorer.sorting/org.springframework.ide.eclipse.ui.navigator.springExplorer.sortingAction" commandName="Sort" description="Sort" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm3WXoEea0velTILR1pA" elementId="AUTOGEN:::breakpointsViewActions/org.eclipse.wst.jsdt.debug.ui.add.scriptload.breakpoint" commandName="Add Script Load Breakpoint" description="Add Script Load Breakpoint" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm3mXoEea0velTILR1pA" elementId="AUTOGEN:::breakpointsViewActions/org.eclipse.jdt.debug.ui.breakpointViewActions.ShowQualified" commandName="Suspend For All Script Loads" description="Suspends when any script is loaded" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm32XoEea0velTILR1pA" elementId="AUTOGEN:::breakpointsViewActions/org.eclipse.wst.jsdt.debug.ui.suspend.on.exceptions" commandName="Suspend On JavaScript Exceptions" description="Suspend on all JavaScript exceptions" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm4GXoEea0velTILR1pA" elementId="AUTOGEN:::debugViewActions/org.eclipse.wst.jsdt.debug.ui.show.all.scripts" commandName="Show All Scripts" description="Shows or hides all scripts loaded in the visible targets" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm4WXoEea0velTILR1pA" elementId="AUTOGEN:::variableViewActions/org.eclipse.wst.jsdt.debug.ui.variableview.show.functions" commandName="Show function variables" description="Show or hide function variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm4mXoEea0velTILR1pA" elementId="AUTOGEN:::variableViewActions/org.eclipse.wst.jsdt.debug.ui.variableview.show.this" commandName="Show 'this' variable" description="Show or hide the this variable" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm42XoEea0velTILR1pA" elementId="AUTOGEN:::variableViewActions/org.eclipse.wst.jsdt.debug.ui.variableview.show.prototypes" commandName="Show proto variables" description="Show or hide proto variables" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm5GXoEea0velTILR1pA" elementId="AUTOGEN:::org.eclipse.ui.articles.action.contribution.view/org.eclipse.wst.wsi.ui.internal.actions.actionDelegates.ValidateWSIProfileActionDelegate" commandName="WS-I Profile Validator" description="Validate WS-I Message Log File" category="_vEbnBWXoEea0velTILR1pA"/>
+  <commands xmi:id="_vEbm5WXoEea0velTILR1pA" elementId="AUTOGEN:::com.atlassian.connector.eclipse.bamboo.ui.actions.view/com.atlassian.connector.eclipse.bamboo.ui.action.refreshpref" commandName="Change Refresh Interval..." description="Change the interval between scheduled refreshes." category="_vEbnBWXoEea0velTILR1pA"/>
+  <addons xmi:id="_vEbm5mXoEea0velTILR1pA" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_vEbm52XoEea0velTILR1pA" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_vEbm6GXoEea0velTILR1pA" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_vEbm6WXoEea0velTILR1pA" elementId="org.eclipse.e4.ui.workbench.commands.model" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_vEbm6mXoEea0velTILR1pA" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_vEbm62XoEea0velTILR1pA" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+  <addons xmi:id="_vEbm7GXoEea0velTILR1pA" elementId="Cleanup Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.cleanupaddon.CleanupAddon"/>
+  <addons xmi:id="_vEbm7WXoEea0velTILR1pA" elementId="DnD Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.dndaddon.DnDAddon"/>
+  <addons xmi:id="_vEbm7mXoEea0velTILR1pA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
+  <addons xmi:id="_vEbm72XoEea0velTILR1pA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <addons xmi:id="_vEbm8GXoEea0velTILR1pA" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
+  <categories xmi:id="_vEbm8WXoEea0velTILR1pA" elementId="org.eclipse.ui.category.perspectives" name="Perspectives" description="Commands for opening perspectives"/>
+  <categories xmi:id="_vEbm8mXoEea0velTILR1pA" elementId="org.eclipse.team.cvs.ui.actionSet" name="CVS" description="Actions that apply when working with CVS repositories"/>
+  <categories xmi:id="_vEbm82XoEea0velTILR1pA" elementId="org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaedtor.10x" name="ASA 9.x table schema editor"/>
+  <categories xmi:id="_vEbm9GXoEea0velTILR1pA" elementId="org.eclipse.ui.category.window" name="Window"/>
+  <categories xmi:id="_vEbm9WXoEea0velTILR1pA" elementId="org.eclipse.datatools.sqltools.sqleditor.category" name="Database Tools" description="Database Development tools"/>
+  <categories xmi:id="_vEbm9mXoEea0velTILR1pA" elementId="org.eclipse.ui.category.project" name="Project"/>
+  <categories xmi:id="_vEbm92XoEea0velTILR1pA" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
+  <categories xmi:id="_vEbm-GXoEea0velTILR1pA" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
+  <categories xmi:id="_vEbm-WXoEea0velTILR1pA" elementId="org.eclipse.pde.ui.category.source" name="Manifest Editor Source" description="PDE Source Page actions"/>
+  <categories xmi:id="_vEbm-mXoEea0velTILR1pA" elementId="org.eclipse.wb.core.actions.category" name="WindowBuilder Pro" description="WindowBuilder Pro actions"/>
+  <categories xmi:id="_vEbm-2XoEea0velTILR1pA" elementId="org.eclipse.emf.codegen.ecore.ui.Commands" name="EMF Code Generation" description="Commands for the EMF code generation tools"/>
+  <categories xmi:id="_vEbm_GXoEea0velTILR1pA" elementId="org.springsource.ide.eclipse.common.ui.commands" name="SpringSource Tools"/>
+  <categories xmi:id="_vEbm_WXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.category.source" name="Source" description="JavaScript Source Actions"/>
+  <categories xmi:id="_vEbm_mXoEea0velTILR1pA" elementId="org.eclipse.jwt.compatibility.category" name="JWT Category"/>
+  <categories xmi:id="_vEbm_2XoEea0velTILR1pA" elementId="org.eclipse.datatools.sqltools.result.category" name="SQL Results View"/>
+  <categories xmi:id="_vEbnAGXoEea0velTILR1pA" elementId="org.eclipse.egit.ui.commandCategory" name="Git"/>
+  <categories xmi:id="_vEbnAWXoEea0velTILR1pA" elementId="org.eclipse.mylyn.java.ui.commands" name="Java Context" description="Java Task-Focused Interface Commands"/>
+  <categories xmi:id="_vEbnAmXoEea0velTILR1pA" elementId="org.springframework.ide.eclipse.boot.properties.editor.category" name="Spring Properties Editor"/>
+  <categories xmi:id="_vEbnA2XoEea0velTILR1pA" elementId="org.eclipse.search.ui.category.search" name="Search" description="Search command category"/>
+  <categories xmi:id="_vEbnBGXoEea0velTILR1pA" elementId="org.eclipse.ui.category.edit" name="Edit"/>
+  <categories xmi:id="_vEbnBWXoEea0velTILR1pA" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
+  <categories xmi:id="_vEbnBmXoEea0velTILR1pA" elementId="org.eclipse.team.svn.ui.command.category" name="SVN"/>
+  <categories xmi:id="_vEbnB2XoEea0velTILR1pA" elementId="jp.gr.java_conf.ussiy.app.propedit.category" name="PropertiesEditor"/>
+  <categories xmi:id="_vEbnCGXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.debug.ui.category" name="JavaScript Debug" description="Tooling for debugging JavaScript"/>
+  <categories xmi:id="_vEbnCWXoEea0velTILR1pA" elementId="org.eclipse.gef.category.format" name="Format" description="Format"/>
+  <categories xmi:id="_vEbnCmXoEea0velTILR1pA" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
+  <categories xmi:id="_vEbnC2XoEea0velTILR1pA" elementId="org.eclipse.jst.pagedesigner.pagelayout" name="Web Page Editor Layout"/>
+  <categories xmi:id="_vEbnDGXoEea0velTILR1pA" elementId="org.eclipse.mylyn.context.ui.commands" name="Focused UI" description="Task-Focused Interface"/>
+  <categories xmi:id="_vEbnDWXoEea0velTILR1pA" elementId="org.eclipse.ajdt.refactoring.category" name="AspectJ Refactorings" description="Refactorings specific to AspectJ"/>
+  <categories xmi:id="_vEbnDmXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.category.source" name="Source" description="Java Source Actions"/>
+  <categories xmi:id="_vEbnD2XoEea0velTILR1pA" elementId="pl.szpinda.plugin.tomcat.commands.category.key" name="Tomcat keys"/>
+  <categories xmi:id="_vEbnEGXoEea0velTILR1pA" elementId="org.eclipse.soa.sca.core.common.category" name="SCA Tools" description="A set of commands related to SCA Tools"/>
+  <categories xmi:id="_vEbnEWXoEea0velTILR1pA" elementId="org.eclipse.mylyn.builds.ui.category.Commands" name="Builds"/>
+  <categories xmi:id="_vEbnEmXoEea0velTILR1pA" elementId="org.eclipse.pde.runtime.spy.commands.category" name="Spy"/>
+  <categories xmi:id="_vEbnE2XoEea0velTILR1pA" elementId="org.eclipse.ui.ide.markerContents" name="Contents" description="The category for menu contents"/>
+  <categories xmi:id="_vEbnFGXoEea0velTILR1pA" elementId="org.eclipse.ui.category.file" name="File"/>
+  <categories xmi:id="_vEbnFWXoEea0velTILR1pA" elementId="org.springframework.ide.eclipse.boot.commands.category" name="Spring Boot"/>
+  <categories xmi:id="_vEbnFmXoEea0velTILR1pA" elementId="org.eclipse.debug.ui.category.run" name="Run/Debug" description="Run/Debug command category"/>
+  <categories xmi:id="_vEbnF2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.category.editor" name="Task Editor"/>
+  <categories xmi:id="_vEbnGGXoEea0velTILR1pA" elementId="org.eclipse.ajdt.mylyn.ui.commands" name="Mylyn AspectJ" description="Mylyn AspectJ Commands"/>
+  <categories xmi:id="_vEbnGWXoEea0velTILR1pA" elementId="org.springsource.ide.eclipse.quicksearch.commands.category" name="Quick Search Category"/>
+  <categories xmi:id="_vEbnGmXoEea0velTILR1pA" elementId="org.eclipse.wst.jsdt.ui.category.refactoring" name="Refactor - JavaScript" description="JavaScript Refactoring Actions"/>
+  <categories xmi:id="_vEbnG2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.wikitext.context.ui.commands" name="%commands.category.name" description="%commands.category.description"/>
+  <categories xmi:id="_vEbnHGXoEea0velTILR1pA" elementId="org.eclipse.wst.server.ui" name="Server" description="Server"/>
+  <categories xmi:id="_vEbnHWXoEea0velTILR1pA" elementId="org.eclipse.ui.category.dialogs" name="Dialogs" description="Commands for opening dialogs"/>
+  <categories xmi:id="_vEbnHmXoEea0velTILR1pA" elementId="org.eclipse.soa.sca.sca1_0.diagram.part.ScaDiagramEditorID" name="Sca Editor Commands" description="Sca Editor Commands"/>
+  <categories xmi:id="_vEbnH2XoEea0velTILR1pA" elementId="org.eclipse.mylyn.commons.repositories.ui.category.Team" name="Team"/>
+  <categories xmi:id="_vEbnIGXoEea0velTILR1pA" elementId="org.eclipse.ui.category.textEditor" name="Text Editing" description="Text Editing Commands"/>
+  <categories xmi:id="_vEbnIWXoEea0velTILR1pA" elementId="org.eclipse.mylyn.tasks.ui.commands" name="Task Repositories"/>
+  <categories xmi:id="_vEbnImXoEea0velTILR1pA" elementId="org.eclipse.jwt.we.commandCategory" name="JWT" description="JWT Commands"/>
+  <categories xmi:id="_vEbnI2XoEea0velTILR1pA" elementId="org.eclipse.gef.category.view" name="View" description="View"/>
+  <categories xmi:id="_vEbnJGXoEea0velTILR1pA" elementId="org.eclipse.ui.category.help" name="Help"/>
+  <categories xmi:id="_vEbnJWXoEea0velTILR1pA" elementId="org.eclipse.compare.ui.category.compare" name="Compare" description="Compare command category"/>
+  <categories xmi:id="_vEbnJmXoEea0velTILR1pA" elementId="org.eclipse.ui.category.navigate" name="Navigate"/>
+  <categories xmi:id="_vEbnJ2XoEea0velTILR1pA" elementId="org.eclipse.ltk.ui.category.refactoring" name="Refactoring"/>
+  <categories xmi:id="_vEbnKGXoEea0velTILR1pA" elementId="org.eclipse.jdt.ui.category.refactoring" name="Refactor - Java" description="Java Refactoring Actions"/>
+</application:Application>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            c3;" u2="O" k="41" />
+<hkern u1="&#xc3;" u2="J" k="-266" />
+<hkern u1="&#xc3;" u2="G" k="41" />
+<hkern u1="&#xc3;" u2="C" k="41" />
+<hkern u1="&#xc3;" u2="&#x27;" k="143" />
+<hkern u1="&#xc3;" u2="&#x22;" k="143" />
+<hkern u1="&#xc4;" u2="&#x201d;" k="143" />
+<hkern u1="&#xc4;" u2="&#x2019;" k="143" />
+<hkern u1="&#xc4;" u2="&#x178;" k="123" />
+<hkern u1="&#xc4;" u2="&#x152;" k="41" />
+<hkern u1="&#xc4;" u2="&#xdd;" k="123" />
+<hkern u1="&#xc4;" u2="&#xd8;" k="41" />
+<hkern u1="&#xc4;" u2="&#xd6;" k="41" />
+<hkern u1="&#xc4;" u2="&#xd5;" k="41" />
+<hkern u1="&#xc4;" u2="&#xd4;" k="41" />
+<hkern u1="&#xc4;" u2="&#xd3;" k="41" />
+<hkern u1="&#xc4;" u2="&#xd2;" k="41" />
+<hkern u1="&#xc4;" u2="&#xc7;" k="41" />
+<hkern u1="&#xc4;" u2="Y" k="123" />
+<hkern u1="&#xc4;" u2="W" k="82" />
+<hkern u1="&#xc4;" u2="V" k="82" />
+<hkern u1="&#xc4;" u2="T" k="143" />
+<hkern u1="&#xc4;" u2="Q" k="41" />
+<hkern u1="&#xc4;" u2="O" k="41" />
+<hkern u1="&#xc4;" u2="J" k="-266" />
+<hkern u1="&#xc4;" u2="G" k="41" />
+<hkern u1="&#xc4;" u2="C" k="41" />
+<hkern u1="&#xc4;" u2="&#x27;" k="143" />
+<hkern u1="&#xc4;" u2="&#x22;" k="143" />
+<hkern u1="&#xc5;" u2="&#x201d;" k="143" />
+<hkern u1="&#xc5;" u2="&#x2019;" k="143" />
+<hkern u1="&#xc5;" u2="&#x178;" k="123" />
+<hkern u1="&#xc5;" u2="&#x152;" k="41" />
+<hkern u1="&#xc5;" u2="&#xdd;" k="123" />
+<hkern u1="&#xc5;" u2="&#xd8;" k="41" />
+<hkern u1="&#xc5;" u2="&#xd6;" k="41" />
+<hkern u1="&#xc5;" u2="&#xd5;" k="41" />
+<hkern u1="&#xc5;" u2="&#xd4;" k="41" />
+<hkern u1="&#xc5;" u2="&#xd3;" k="41" />
+<hkern u1="&#xc5;" u2="&#xd2;" k="41" />
+<hkern u1="&#xc5;" u2="&#xc7;" k="41" />
+<hkern u1="&#xc5;" u2="Y" k="123" />
+<hkern u1="&#xc5;" u2="W" k="82" />
+<hkern u1="&#xc5;" u2="V" k="82" />
+<hkern u1="&#xc5;" u2="T" k="143" />
+<hkern u1="&#xc5;" u2="Q" k="41" />
+<hkern u1="&#xc5;" u2="O" k="41" />
+<hkern u1="&#xc5;" u2="J" k="-266" />
+<hkern u1="&#xc5;" u2="G" k="41" />
+<hkern u1="&#xc5;" u2="C" k="41" />
+<hkern u1="&#xc5;" u2="&#x27;" k="143" />
+<hkern u1="&#xc5;" u2="&#x22;" k="143" />
+<hkern u1="&#xc6;" u2="J" k="-123" />
+<hkern u1="&#xc7;" u2="&#x152;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd8;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd6;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd5;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd4;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd3;" k="41" />
+<hkern u1="&#xc7;" u2="&#xd2;" k="41" />
+<hkern u1="&#xc7;" u2="&#xc7;" k="41" />
+<hkern u1="&#xc7;" u2="Q" k="41" />
+<hkern u1="&#xc7;" u2="O" k="41" />
+<hkern u1="&#xc7;" u2="G" k="41" />
+<hkern u1="&#xc7;" u2="C" k="41" />
+<hkern u1="&#xc8;" u2="J" k="-123" />
+<hkern u1="&#xc9;" u2="J" k="-123" />
+<hkern u1="&#xca;" u2="J" k="-123" />
+<hkern u1="&#xcb;" u2="J" k="-123" />
+<hkern u1="&#xd0;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd0;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd0;" u2="&#x178;" k="20" />
+<hkern u1="&#xd0;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd0;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd0;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd0;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd0;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd0;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd0;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd0;" u2="Z" k="20" />
+<hkern u1="&#xd0;" u2="Y" k="20" />
+<hkern u1="&#xd0;" u2="X" k="41" />
+<hkern u1="&#xd0;" u2="W" k="20" />
+<hkern u1="&#xd0;" u2="V" k="20" />
+<hkern u1="&#xd0;" u2="T" k="61" />
+<hkern u1="&#xd0;" u2="A" k="41" />
+<hkern u1="&#xd0;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd0;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd2;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd2;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd2;" u2="&#x178;" k="20" />
+<hkern u1="&#xd2;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd2;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd2;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd2;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd2;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd2;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd2;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd2;" u2="Z" k="20" />
+<hkern u1="&#xd2;" u2="Y" k="20" />
+<hkern u1="&#xd2;" u2="X" k="41" />
+<hkern u1="&#xd2;" u2="W" k="20" />
+<hkern u1="&#xd2;" u2="V" k="20" />
+<hkern u1="&#xd2;" u2="T" k="61" />
+<hkern u1="&#xd2;" u2="A" k="41" />
+<hkern u1="&#xd2;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd2;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd3;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd3;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd3;" u2="&#x178;" k="20" />
+<hkern u1="&#xd3;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd3;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd3;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd3;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd3;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd3;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd3;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd3;" u2="Z" k="20" />
+<hkern u1="&#xd3;" u2="Y" k="20" />
+<hkern u1="&#xd3;" u2="X" k="41" />
+<hkern u1="&#xd3;" u2="W" k="20" />
+<hkern u1="&#xd3;" u2="V" k="20" />
+<hkern u1="&#xd3;" u2="T" k="61" />
+<hkern u1="&#xd3;" u2="A" k="41" />
+<hkern u1="&#xd3;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd3;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd4;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd4;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd4;" u2="&#x178;" k="20" />
+<hkern u1="&#xd4;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd4;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd4;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd4;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd4;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd4;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd4;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd4;" u2="Z" k="20" />
+<hkern u1="&#xd4;" u2="Y" k="20" />
+<hkern u1="&#xd4;" u2="X" k="41" />
+<hkern u1="&#xd4;" u2="W" k="20" />
+<hkern u1="&#xd4;" u2="V" k="20" />
+<hkern u1="&#xd4;" u2="T" k="61" />
+<hkern u1="&#xd4;" u2="A" k="41" />
+<hkern u1="&#xd4;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd4;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd5;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd5;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd5;" u2="&#x178;" k="20" />
+<hkern u1="&#xd5;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd5;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd5;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd5;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd5;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd5;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd5;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd5;" u2="Z" k="20" />
+<hkern u1="&#xd5;" u2="Y" k="20" />
+<hkern u1="&#xd5;" u2="X" k="41" />
+<hkern u1="&#xd5;" u2="W" k="20" />
+<hkern u1="&#xd5;" u2="V" k="20" />
+<hkern u1="&#xd5;" u2="T" k="61" />
+<hkern u1="&#xd5;" u2="A" k="41" />
+<hkern u1="&#xd5;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd5;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd6;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd6;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd6;" u2="&#x178;" k="20" />
+<hkern u1="&#xd6;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd6;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd6;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd6;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd6;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd6;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd6;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd6;" u2="Z" k="20" />
+<hkern u1="&#xd6;" u2="Y" k="20" />
+<hkern u1="&#xd6;" u2="X" k="41" />
+<hkern u1="&#xd6;" u2="W" k="20" />
+<hkern u1="&#xd6;" u2="V" k="20" />
+<hkern u1="&#xd6;" u2="T" k="61" />
+<hkern u1="&#xd6;" u2="A" k="41" />
+<hkern u1="&#xd6;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd6;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd8;" u2="&#x201e;" k="82" />
+<hkern u1="&#xd8;" u2="&#x201a;" k="82" />
+<hkern u1="&#xd8;" u2="&#x178;" k="20" />
+<hkern u1="&#xd8;" u2="&#xdd;" k="20" />
+<hkern u1="&#xd8;" u2="&#xc5;" k="41" />
+<hkern u1="&#xd8;" u2="&#xc4;" k="41" />
+<hkern u1="&#xd8;" u2="&#xc3;" k="41" />
+<hkern u1="&#xd8;" u2="&#xc2;" k="41" />
+<hkern u1="&#xd8;" u2="&#xc1;" k="41" />
+<hkern u1="&#xd8;" u2="&#xc0;" k="41" />
+<hkern u1="&#xd8;" u2="Z" k="20" />
+<hkern u1="&#xd8;" u2="Y" k="20" />
+<hkern u1="&#xd8;" u2="X" k="41" />
+<hkern u1="&#xd8;" u2="W" k="20" />
+<hkern u1="&#xd8;" u2="V" k="20" />
+<hkern u1="&#xd8;" u2="T" k="61" />
+<hkern u1="&#xd8;" u2="A" k="41" />
+<hkern u1="&#xd8;" u2="&#x2e;" k="82" />
+<hkern u1="&#xd8;" u2="&#x2c;" k="82" />
+<hkern u1="&#xd9;" u2="&#x201e;" k="41" />
+<hkern u1="&#xd9;" u2="&#x201a;" k="41" />
+<hkern u1="&#xd9;" u2="&#xc5;" k="20" />
+<hkern u1="&#xd9;" u2="&#xc4;" k="20" />
+<hkern u1="&#xd9;" u2="&#xc3;" k="20" />
+<hkern u1="&#xd9;" u2="&#xc2;" k="20" />
+<hkern u1="&#xd9;" u2="&#xc1;" k="20" />
+<hkern u1="&#xd9;" u2="&#xc0;" k="20" />
+<hkern u1="&#xd9;" u2="A" k="20" />
+<hkern u1="&#xd9;" u2="&#x2e;" k="41" />
+<hkern u1="&#xd9;" u2="&#x2c;" k="41" />
+<hkern u1="&#xda;" u2="&#x201e;" k="41" />
+<hkern u1="&#xda;" u2="&#x201a;" k="41" />
+<hkern u1="&#xda;" u2="&#xc5;" k="20" />
+<hkern u1="&#xda;" u2="&#xc4;" k="20" />
+<hkern u1="&#xda;" u2="&#xc3;" k="20" />
+<hkern u1="&#xda;" u2="&#xc2;" k="20" />
+<hkern u1="&#xda;" u2="&#xc1;" k="20" />
+<hkern u1="&#xda;" u2="&#xc0;" k="20" />
+<hkern u1="&#xda;" u2="A" k="20" />
+<hkern u1="&#xda;" u2="&#x2e;" k="41" />
+<hkern u1="&#xda;" u2="&#x2c;" k="41" />
+<hkern u1="&#xdb;" u2="&#x201e;" k="41" />
+<hkern u1="&#xdb;" u2="&#x201a;" k="41" />
+<hkern u1="&#xdb;" u2="&#xc5;" k="20" />
+<hkern u1="&#xdb;" u2="&#xc4;" k="20" />
+<hkern u1="&#xdb;" u2="&#xc3;" k="20" />
+<hkern u1="&#xdb;" u2="&#xc2;" k="20" />
+<hkern u1="&#xdb;" u2="&#xc1;" k="20" />
+<hkern u1="&#xdb;" u2="&#xc0;" k="20" />
+<hkern u1="&#xdb;" u2="A" k="20" />
+<hkern u1="&#xdb;" u2="&#x2e;" k="41" />
+<hkern u1="&#xdb;" u2="&#x2c;" k="41" />
+<hkern u1="&#xdc;" u2="&#x201e;" k="41" />
+<hkern u1="&#xdc;" u2="&#x201a;" k="41" />
+<hkern u1="&#xdc;" u2="&#xc5;" k="20" />
+<hkern u1="&#xdc;" u2="&#xc4;" k="20" />
+<hkern u1="&#xdc;" u2="&#xc3;" k="20" />
+<hkern u1="&#xdc;" u2="&#xc2;" k="20" />
+<hkern u1="&#xdc;" u2="&#xc1;" k="20" />
+<hkern u1="&#xdc;" u2="&#xc0;" k="20" />
+<hkern u1="&#xdc;" u2="A" k="20" />
+<hkern u1="&#xdc;" u2="&#x2e;" k="41" />
+<hkern u1="&#xdc;" u2="&#x2c;" k="41" />
+<hkern u1="&#xdd;" u2="&#x201e;" k="123" />
+<hkern u1="&#xdd;" u2="&#x201a;" k="123" />
+<hkern u1="&#xdd;" u2="&#x153;" k="102" />
+<hkern u1="&#xdd;" u2="&#x152;" k="41" />
+<hkern u1="&#xdd;" u2="&#xfc;" k="61" />
+<hkern u1="&#xdd;" u2="&#xfb;" k="61" />
+<hkern u1="&#xdd;" u2="&#xfa;" k="61" />
+<hkern u1="&#xdd;" u2="&#xf9;" k="61" />
+<hkern u1="&#xdd;" u2="&#xf8;" k="102" />
+<hkern u1="&#xdd;" u2="&#xf6;" k="102" />
+<hkern u1="&#xdd;" u2="&#xf5;" k="102" />
+<hkern u1="&#xdd;" u2="&#xf4;" k="102" />
+<hkern u1="&#xdd;" u2="&#xf3;" k="102" />
+<hkern u1="&#xdd;" u2="&#xf2;" k="102" />
+<hkern u1="&#xdd;" u2="&#xeb;" k="102" />
+<hkern u1="&#xdd;" u2="&#xea;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe9;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe8;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe7;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe6;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe5;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe4;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe3;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe2;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe1;" k="102" />
+<hkern u1="&#xdd;" u2="&#xe0;" k="102" />
+<hkern u1="&#xdd;" u2="&#xd8;" k="41" />
+<hkern u1="&#xdd;" u2="&#xd6;" k="41" />
+<hkern u1="&#xdd;" u2="&#xd5;" k="41" />
+<hkern u1="&#xdd;" u2="&#xd4;" k="41" />
+<hkern u1="&#xdd;" u2="&#xd3;" k="41" />
+<hkern u1="&#xdd;" u2="&#xd2;" k="41" />
+<hkern u1="&#xdd;" u2="&#xc7;" k="41" />
+<hkern u1="&#xdd;" u2="&#xc5;" k="123" />
+<hkern u1="&#xdd;" u2="&#xc4;" k="123" />
+<hkern u1="&#xdd;" u2="&#xc3;" k="123" />
+<hkern u1="&#xdd;" u2="&#xc2;" k="123" />
+<hkern u1="&#xdd;" u2="&#xc1;" k="123" />
+<hkern u1="&#xdd;" u2="&#xc0;" k="123" />
+<hkern u1="&#xdd;" u2="z" k="41" />
+<hkern u1="&#xdd;" u2="u" k="61" />
+<hkern u1="&#xdd;" u2="s" k="82" />
+<hkern u1="&#xdd;" u2="r" k="61" />
+<hkern u1="&#xdd;" u2="q" k="102" />
+<hkern u1="&#xdd;" u2="p" k="61" />
+<hkern u1="&#xdd;" u2="o" k="102" />
+<hkern u1="&#xdd;" u2="n" k="61" />
+<hkern u1="&#xdd;" u2="m" k="61" />
+<hkern u1="&#xdd;" u2="g" k="41" />
+<hkern u1="&#xdd;" u2="e" k="102" />
+<hkern u1="&#xdd;" u2="d" k="102" />
+<hkern u1="&#xdd;" u2="c" k="102" />
+<hkern u1="&#xdd;" u2="a" k="102" />
+<hkern u1="&#xdd;" u2="Q" k="41" />
+<hkern u1="&#xdd;" u2="O" k="41" />
+<hkern u1="&#xdd;" u2="G" k="41" />
+<hkern u1="&#xdd;" u2="C" k="41" />
+<hkern u1="&#xdd;" u2="A" k="123" />
+<hkern u1="&#xdd;" u2="&#x3f;" k="-41" />
+<hkern u1="&#xdd;" u2="&#x2e;" k="123" />
+<hkern u1="&#xdd;" u2="&#x2c;" k="123" />
+<hkern u1="&#xde;" u2="&#x201e;" k="266" />
+<hkern u1="&#xde;" u2="&#x201a;" k="266" />
+<hkern u1="&#xde;" u2="&#xc5;" k="102" />
+<hkern u1="&#xde;" u2="&#xc4;" k="102" />
+<hkern u1="&#xde;" u2="&#xc3;" k="102" />
+<hkern u1="&#xde;" u2="&#xc2;" k="102" />
+<hkern u1="&#xde;" u2="&#xc1;" k="102" />
+<hkern u1="&#xde;" u2="&#xc0;" k="102" />
+<hkern u1="&#xde;" u2="Z" k="20" />
+<hkern u1="&#xde;" u2="X" k="41" />
+<hkern u1="&#xde;" u2="A" k="102" />
+<hkern u1="&#xde;" u2="&#x2e;" k="266" />
+<hkern u1="&#xde;" u2="&#x2c;" k="266" />
+<hkern u1="&#xe0;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe0;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe0;" u2="&#x27;" k="20" />
+<hkern u1="&#xe0;" u2="&#x22;" k="20" />
+<hkern u1="&#xe1;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe1;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe1;" u2="&#x27;" k="20" />
+<hkern u1="&#xe1;" u2="&#x22;" k="20" />
+<hkern u1="&#xe2;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe2;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe2;" u2="&#x27;" k="20" />
+<hkern u1="&#xe2;" u2="&#x22;" k="20" />
+<hkern u1="&#xe3;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe3;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe3;" u2="&#x27;" k="20" />
+<hkern u1="&#xe3;" u2="&#x22;" k="20" />
+<hkern u1="&#xe4;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe4;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe4;" u2="&#x27;" k="20" />
+<hkern u1="&#xe4;" u2="&#x22;" k="20" />
+<hkern u1="&#xe5;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe5;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe5;" u2="&#x27;" k="20" />
+<hkern u1="&#xe5;" u2="&#x22;" k="20" />
+<hkern u1="&#xe8;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe8;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe8;" u2="&#xfd;" k="41" />
+<hkern u1="&#xe8;" u2="z" k="20" />
+<hkern u1="&#xe8;" u2="y" k="41" />
+<hkern u1="&#xe8;" u2="x" k="41" />
+<hkern u1="&#xe8;" u2="w" k="41" />
+<hkern u1="&#xe8;" u2="v" k="41" />
+<hkern u1="&#xe8;" u2="&#x27;" k="20" />
+<hkern u1="&#xe8;" u2="&#x22;" k="20" />
+<hkern u1="&#xe9;" u2="&#x201d;" k="20" />
+<hkern u1="&#xe9;" u2="&#x2019;" k="20" />
+<hkern u1="&#xe9;" u2="&#xfd;" k="41" />
+<hkern u1="&#xe9;" u2="z" k="20" />
+<hkern u1="&#xe9;" u2="y" k="41" />
+<hkern u1="&#xe9;" u2="x" k="41" />
+<hkern u1="&#xe9;" u2="w" k="41" />
+<hkern u1="&#xe9;" u2="v" k="41" />
+<hkern u1="&#xe9;" u2="&#x27;" k="20" />
+<hkern u1="&#xe9;" u2="&#x22;" k="20" />
+<hkern u1="&#xea;" u2="&#x201d;" k="20" />
+<hkern u1="&#xea;" u2="&#x2019;" k="20" />
+<hkern u1="&#xea;" u2="&#xfd;" k="41" />
+<hkern u1="&#xea;" u2="z" k="20" />
+<hkern u1="&#xea;" u2="y" k="41" />
+<hkern u1="&#xea;" u2="x" k="41" />
+<hkern u1="&#xea;" u2="w" k="41" />
+<hkern u1="&#xea;" u2="v" k="41" />
+<hkern u1="&#xea;" u2="&#x27;" k="20" />
+<hkern u1="&#xea;" u2="&#x22;" k="20" />
+<hkern u1="&#xeb;" u2="&#x201d;" k="20" />
+<hkern u1="&#xeb;" u2="&#x2019;" k="20" />
+<hkern u1="&#xeb;" u2="&#xfd;" k="41" />
+<hkern u1="&#xeb;" u2="z" k="20" />
+<hkern u1="&#xeb;" u2="y" k="41" />
+<hkern u1="&#xeb;" u2="x" k="41" />
+<hkern u1="&#xeb;" u2="w" k="41" />
+<hkern u1="&#xeb;" u2="v" k="41" />
+<hkern u1="&#xeb;" u2="&#x27;" k="20" />
+<hkern u1="&#xeb;" u2="&#x22;" k="20" />
+<hkern u1="&#xf0;" u2="&#x201d;" k="20" />
+<hkern u1="&#xf0;" u2="&#x2019;" k="20" />
+<hkern u1="&#xf0;" u2="&#xfd;" k="41" />
+<hkern u1="&#xf0;" u2="z" k="20" />
+<hkern u1="&#xf0;" u2="y" k="41" />
+<hkern u1="&#xf0;" u2="x" k="41" />
+<hkern u1="&#xf0;" u2="w" k="41" />
+<hkern u1="&#xf0;" u2="v" k="41" />
+<hkern u1="&#xf0;" u2="&#x27;" k="20" />
+<hkern u1="&#xf0;" u2="&#x22;" k="20" />
+<hkern u1="&#xf2;" u2="&#x201d;" k="20" />
+<hkern u1="&#xf2;" u2="&#x2019;" k="20" />
+<hkern u1="&#xf2;" u2="&#xfd;" k="41" />
+<hkern u1="&#xf2;" u2="z" k="20" />
+<hkern u1="&#xf2;" u2="y" k="41" />
+<hkern u1="&#xf2;" u2="x" k="41" />
+<hkern u1="&#xf2;" u2="w" k="41" />
+<hkern u1="&#xf2;" u2="v" k="41" />
+<hkern u1="&#xf2;" u2="&#x27;" k="20" />
+<hkern u1="&#xf2;" u2="&#x22;" k="20" />
+<hkern u1="&#xf3;" u2="&#x201d;" k="20" />
+<hkern u1="&#xf3;" u2="&#x2019;" k="20" />
+<hkern u1="&#xf3;" u2="&#xfd;" k="41" />
+<hkern u1="&#xf3;" u2="z" k="20" />
+<hkern u1="&#xf3;" u2="y" k="41" />
+<hkern u1="&#xf3;" u2="x" k="41" />
+<hkern u1="&#xf3;" u2="w" k="41" />
+<hkern u1="&#xf3;" u2="v" k="41" />
+<hkern u1="&#xf3;" u2="&#x27;" k="20" />
+<hkern u1="&#xf3;" u2="&#x22;" k="20" />
+<hkern u1="&#xf4;" u2="&#x201d;" k="20" />
+<hkern u1="&#xf4;" u2="&#x2019;" k="20" />
+<hkern u1="&#xf4;" u2="&#xfd;" k="41" />
+<hkern u1="&#xf4;" u2="z" k="20" />
+<hkern u1="&#xf4;" u2="y" k="41" />
+<hkern u1="&#xf4;" u2="x" k="41" />
+<hkern u1="&#xf4;" u2="w" k="41" />
+<hkern u1="&#xf4;" u2="v" k="41" />
+<hkern u1="&#xf4;" u2="&#x27;" k="20" />
+<hkern u1="&#xf4;" u2="&#x22;" k="20" />
+<hkern u1="&#xf6;" u2="&#x201d;" k="41" />
+<hkern u1="&#xf6;" u2="&#x2019;" k="41" />
+<hkern u1="&#xf6;" u2="&#x27;" k="41" />
+<hkern u1="&#xf6;" u2="&#x22;" k="41" />
+<hkern u1="&#xf8;" u2="&#x201d;" k="20" />
+<hkern u1="&#xf8;" u2="&#x2019;" k="20" />
+<hkern u1="&#xf8;" u2="&#xfd;" k="41" />
+<hkern u1="&#xf8;" u2="z" k="20" />
+<hkern u1="&#xf8;" u2="y" k="41" />
+<hkern u1="&#xf8;" u2="x" k="41" />
+<hkern u1="&#xf8;" u2="w" k="41" />
+<hkern u1="&#xf8;" u2="v" k="41" />
+<hkern u1="&#xf8;" u2="&#x27;" k="20" />
+<hkern u1="&#xf8;" u2="&#x22;" k="20" />
+<hkern u1="&#xfd;" u2="&#x201e;" k="82" />
+<hkern u1="&#xfd;" u2="&#x201d;" k="-82" />
+<hkern u1="&#xfd;" u2="&#x201a;" k="82" />
+<hkern u1="&#xfd;" u2="&#x2019;" k="-82" />
+<hkern u1="&#xfd;" u2="&#x3f;" k="-41" />
+<hkern u1="&#xfd;" u2="&#x2e;" k="82" />
+<hkern u1="&#xfd;" u2="&#x2c;" k="82" />
+<hkern u1="&#xfd;" u2="&#x27;" k="-82" />
+<hkern u1="&#xfd;" u2="&#x22;" k="-82" />
+<hkern u1="&#xfe;" u2="&#x201d;" k="20" />
+<hkern u1="&#xfe;" u2="&#x2019;" k="20" />
+<hkern u1="&#xfe;" u2="&#xfd;" k="41" />
+<hkern u1="&#xfe;" u2="z" k="20" />
+<hkern u1="&#xfe;" u2="y" k="41" />
+<hkern u1="&#xfe;" u2="x" k="41" />
+<hkern u1="&#xfe;" u2="w" k="41" />
+<hkern u1="&#xfe;" u2="v" k="41" />
+<hkern u1="&#xfe;" u2="&#x27;" k="20" />
+<hkern u1="&#xfe;" u2="&#x22;" k="20" />
+<hkern u1="&#xff;" u2="&#x201e;" k="82" />
+<hkern u1="&#xff;" u2="&#x201d;" k="-82" />
+<hkern u1="&#xff;" u2="&#x201a;" k="82" />
+<hkern u1="&#xff;" u2="&#x2019;" k="-82" />
+<hkern u1="&#xff;" u2="&#x3f;" k="-41" />
+<hkern u1="&#xff;" u2="&#x2e;" k="82" />
+<hkern u1="&#xff;" u2="&#x2c;" k="82" />
+<hkern u1="&#xff;" u2="&#x27;" k="-82" />
+<hkern u1="&#xff;" u2="&#x22;" k="-82" />
+<hkern u1="&#x152;" u2="J" k="-123" />
+<hkern u1="&#x178;" u2="&#x201e;" k="123" />
+<hkern u1="&#x178;" u2="&#x201a;" k="123" />
+<hkern u1="&#x178;" u2="&#x153;" k="102" />
+<hkern u1="&#x178;" u2="&#x152;" k="41" />
+<hkern u1="&#x178;" u2="&#xfc;" k="61" />
+<hkern u1="&#x178;" u2="&#xfb;" k="61" />
+<hkern u1="&#x178;" u2="&#xfa;" k="61" />
+<hkern u1="&#x178;" u2="&#xf9;" k="61" />
+<hkern u1="&#x178;" u2="&#xf8;" k="102" />
+<hkern u1="&#x178;" u2="&#xf6;" k="102" />
+<hkern u1="&#x178;" u2="&#xf5;" k="102" />
+<hkern u1="&#x178;" u2="&#xf4;" k="102" />
+<hkern u1="&#x178;" u2="&#xf3;" k="102" />
+<hkern u1="&#x178;" u2="&#xf2;" k="102" />
+<hkern u1="&#x178;" u2="&#xeb;" k="102" />
+<hkern u1="&#x178;" u2="&#xea;" k="102" />
+<hkern u1="&#x178;" u2="&#xe9;" k="102" />
+<hkern u1="&#x178;" u2="&#xe8;" k="102" />
+<hkern u1="&#x178;" u2="&#xe7;" k="102" />
+<hkern u1="&#x178;" u2="&#xe6;" k="102" />
+<hkern u1="&#x178;" u2="&#xe5;" k="102" />
+<hkern u1="&#x178;" u2="&#xe4;" k="102" />
+<hkern u1="&#x178;" u2="&#xe3;" k="102" />
+<hkern u1="&#x178;" u2="&#xe2;" k="102" />
+<hkern u1="&#x178;" u2="&#xe1;" k="102" />
+<hkern u1="&#x178;" u2="&#xe0;" k="102" />
+<hkern u1="&#x178;" u2="&#xd8;" k="41" />
+<hkern u1="&#x178;" u2="&#xd6;" k="41" />
+<hkern u1="&#x178;" u2="&#xd5;" k="41" />
+<hkern u1="&#x178;" u2="&#xd4;" k="41" />
+<hkern u1="&#x178;" u2="&#xd3;" k="41" />
+<hkern u1="&#x178;" u2="&#xd2;" k="41" />
+<hkern u1="&#x178;" u2="&#xc7;" k="41" />
+<hkern u1="&#x178;" u2="&#xc5;" k="123" />
+<hkern u1="&#x178;" u2="&#xc4;" k="123" />
+<hkern u1="&#x178;" u2="&#xc3;" k="123" />
+<hkern u1="&#x178;" u2="&#xc2;" k="123" />
+<hkern u1="&#x178;" u2="&#xc1;" k="123" />
+<hkern u1="&#x178;" u2="&#xc0;" k="123" />
+<hkern u1="&#x178;" u2="z" k="41" />
+<hkern u1="&#x178;" u2="u" k="61" />
+<hkern u1="&#x178;" u2="s" k="82" />
+<hkern u1="&#x178;" u2="r" k="61" />
+<hkern u1="&#x178;" u2="q" k="102" />
+<hkern u1="&#x178;" u2="p" k="61" />
+<hkern u1="&#x178;" u2="o" k="102" />
+<hkern u1="&#x178;" u2="n" k="61" />
+<hkern u1="&#x178;" u2="m" k="61" />
+<hkern u1="&#x178;" u2="g" k="41" />
+<hkern u1="&#x178;" u2="e" k="102" />
+<hkern u1="&#x178;" u2="d" k="102" />
+<hkern u1="&#x178;" u2="c" k="102" />
+<hkern u1="&#x178;" u2="a" k="102" />
+<hkern u1="&#x178;" u2="Q" k="41" />
+<hkern u1="&#x178;" u2="O" k="41" />
+<hkern u1="&#x178;" u2="G" k="41" />
+<hkern u1="&#x178;" u2="C" k="41" />
+<hkern u1="&#x178;" u2="A" k="123" />
+<hkern u1="&#x178;" u2="&#x3f;" k="-41" />
+<hkern u1="&#x178;" u2="&#x2e;" k="123" />
+<hkern u1="&#x178;" u2="&#x2c;" k="123" />
+<hkern u1="&#x2013;" u2="T" k="82" />
+<hkern u1="&#x2014;" u2="T" k="82" />
+<hkern u1="&#x2018;" u2="&#x178;" k="-20" />
+<hkern u1="&#x2018;" u2="&#x153;" k="123" />
+<hkern u1="&#x2018;" u2="&#xfc;" k="61" />
+<hkern u1="&#x2018;" u2="&#xfb;" k="61" />
+<hkern u1="&#x2018;" u2="&#xfa;" k="61" />
+<hkern u1="&#x2018;" u2="&#xf9;" k="61" />
+<hkern u1="&#x2018;" u2="&#xf8;" k="123" />
+<hkern u1="&#x2018;" u2="&#xf6;" k="123" />
+<hkern u1="&#x2018;" u2="&#xf5;" k="123" />
+<hkern u1="&#x2018;" u2="&#xf4;" k="123" />
+<hkern u1="&#x2018;" u2="&#xf3;" k="123" />
+<hkern u1="&#x2018;" u2="&#xf2;" k="123" />
+<hkern u1="&#x2018;" u2="&#xeb;" k="123" />
+<hkern u1="&#x2018;" u2="&#xea;" k="123" />
+<hkern u1="&#x2018;" u2="&#xe9;" k="123" />
+<hkern u1="&#x2018;" u2="&#xe8;" k="123" />
+<hkern u1="&#x2018;" u2="&#xe7;" k="123" />
+<hkern u1="&#x2018;" u2="&#xe6;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe5;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe4;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe3;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe2;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe1;" k="82" />
+<hkern u1="&#x2018;" u2="&#xe0;" k="123" />
+<hkern u1="&#x2018;" u2="&#xdd;" k="-20" />
+<hkern u1="&#x2018;" u2="&#xc5;" k="143" />
+<hkern u1="&#x2018;" u2="&#xc4;" k="143" />
+<hkern u1="&#x2018;" u2="&#xc3;" k="143" />
+<hkern u1="&#x2018;" u2="&#xc2;" k="143" />
+<hkern u1="&#x2018;" u2="&#xc1;" k="143" />
+<hkern u1="&#x2018;" u2="&#xc0;" k="143" />
+<hkern u1="&#x2018;" u2="u" k="61" />
+<hkern u1="&#x2018;" u2="s" k="61" />
+<hkern u1="&#x2018;" u2="r" k="61" />
+<hkern u1="&#x2018;" u2="q" k="123" />
+<hkern u1="&#x2018;" u2="p" k="61" />
+<hkern u1="&#x2018;" u2="o" k="123" />
+<hkern u1="&#x2018;" u2="n" k="61" />
+<hkern u1="&#x2018;" u2="m" k="61" />
+<hkern u1="&#x2018;" u2="g" k="61" />
+<hkern u1="&#x2018;" u2="e" k="123" />
+<hkern u1="&#x2018;" u2="d" k="123" />
+<hkern u1="&#x2018;" u2="c" k="123" />
+<hkern u1="&#x2018;" u2="a" k="82" />
+<hkern u1="&#x2018;" u2="Y" k="-20" />
+<hkern u1="&#x2018;" u2="W" k="-41" />
+<hkern u1="&#x2018;" u2="V" k="-41" />
+<hkern u1="&#x2018;" u2="T" k="-41" />
+<hkern u1="&#x2018;" u2="A" k="143" />
+<hkern u1="&#x2019;" u2="&#x178;" k="-20" />
+<hkern u1="&#x2019;" u2="&#x153;" k="123" />
+<hkern u1="&#x2019;" u2="&#xfc;" k="61" />
+<hkern u1="&#x2019;" u2="&#xfb;" k="61" />
+<hkern u1="&#x2019;" u2="&#xfa;" k="61" />
+<hkern u1="&#x2019;" u2="&#xf9;" k="61" />
+<hkern u1="&#x2019;" u2="&#xf8;" k="123" />
+<hkern u1="&#x2019;" u2="&#xf6;" k="123" />
+<hkern u1="&#x2019;" u2="&#xf5;" k="123" />
+<hkern u1="&#x2019;" u2="&#xf4;" k="123" />
+<hkern u1="&#x2019;" u2="&#xf3;" k="123" />
+<hkern u1="&#x2019;" u2="&#xf2;" k="123" />
+<hkern u1="&#x2019;" u2="&#xeb;" k="123" />
+<hkern u1="&#x2019;" u2="&#xea;" k="123" />
+<hkern u1="&#x2019;" u2="&#xe9;" k="123" />
+<hkern u1="&#x2019;" u2="&#xe8;" k="123" />
+<hkern u1="&#x2019;" u2="&#xe7;" k="123" />
+<hkern u1="&#x2019;" u2="&#xe6;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe5;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe4;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe3;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe2;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe1;" k="82" />
+<hkern u1="&#x2019;" u2="&#xe0;" k="123" />
+<hkern u1="&#x2019;" u2="&#xdd;" k="-20" />
+<hkern u1="&#x2019;" u2="&#xc5;" k="143" />
+<hkern u1="&#x2019;" u2="&#xc4;" k="143" />
+<hkern u1="&#x2019;" u2="&#xc3;" k="143" />
+<hkern u1="&#x2019;" u2="&#xc2;" k="143" />
+<hkern u1="&#x2019;" u2="&#xc1;" k="143" />
+<hkern u1="&#x2019;" u2="&#xc0;" k="143" />
+<hkern u1="&#x2019;" u2="u" k="61" />
+<hkern u1="&#x2019;" u2="s" k="61" />
+<hkern u1="&#x2019;" u2="r" k="61" />
+<hkern u1="&#x2019;" u2="q" k="123" />
+<hkern u1="&#x2019;" u2="p" k="61" />
+<hkern u1="&#x2019;" u2="o" k="123" />
+<hkern u1="&#x2019;" u2="n" k="61" />
+<hkern u1="&#x2019;" u2="m" k="61" />
+<hkern u1="&#x2019;" u2="g" k="61" />
+<hkern u1="&#x2019;" u2="e" k="123" />
+<hkern u1="&#x2019;" u2="d" k="123" />
+<hkern u1="&#x2019;" u2="c" k="123" />
+<hkern u1="&#x2019;" u2="a" k="82" />
+<hkern u1="&#x2019;" u2="Y" k="-20" />
+<hkern u1="&#x2019;" u2="W" k="-41" />
+<hkern u1="&#x2019;" u2="V" k="-41" />
+<hkern u1="&#x2019;" u2="T" k="-41" />
+<hkern u1="&#x2019;" u2="A" k="143" />
+<hkern u1="&#x201a;" u2="&#x178;" k="123" />
+<hkern u1="&#x201a;" u2="&#x152;" k="102" />
+<hkern u1="&#x201a;" u2="&#xdd;" k="123" />
+<hkern u1="&#x201a;" u2="&#xdc;" k="41" />
+<hkern u1="&#x201a;" u2="&#xdb;" k="41" />
+<hkern u1="&#x201a;" u2="&#xda;" k="41" />
+<hkern u1="&#x201a;" u2="&#xd9;" k="41" />
+<hkern u1="&#x201a;" u2="&#xd8;" k="102" />
+<hkern u1="&#x201a;" u2="&#xd6;" k="102" />
+<hkern u1="&#x201a;" u2="&#xd5;" k="102" />
+<hkern u1="&#x201a;" u2="&#xd4;" k="102" />
+<hkern u1="&#x201a;" u2="&#xd3;" k="102" />
+<hkern u1="&#x201a;" u2="&#xd2;" k="102" />
+<hkern u1="&#x201a;" u2="&#xc7;" k="102" />
+<hkern u1="&#x201a;" u2="Y" k="123" />
+<hkern u1="&#x201a;" u2="W" k="123" />
+<hkern u1="&#x201a;" u2="V" k="123" />
+<hkern u1="&#x201a;" u2="U" k="41" />
+<hkern u1="&#x201a;" u2="T" k="143" />
+<hkern u1="&#x201a;" u2="Q" k="102" />
+<hkern u1="&#x201a;" u2="O" k="102" />
+<hkern u1="&#x201a;" u2="G" k="102" />
+<hkern u1="&#x201a;" u2="C" k="102" />
+<hkern u1="&#x201c;" u2="&#x178;" k="-20" />
+<hkern u1="&#x201c;" u2="&#x153;" k="123" />
+<hkern u1="&#x201c;" u2="&#xfc;" k="61" />
+<hkern u1="&#x201c;" u2="&#xfb;" k="61" />
+<hkern u1="&#x201c;" u2="&#xfa;" k="61" />
+<hkern u1="&#x201c;" u2="&#xf9;" k="61" />
+<hkern u1="&#x201c;" u2="&#xf8;" k="123" />
+<hkern u1="&#x201c;" u2="&#xf6;" k="123" />
+<hkern u1="&#x201c;" u2="&#xf5;" k="123" />
+<hkern u1="&#x201c;" u2="&#xf4;" k="123" />
+<hkern u1="&#x201c;" u2="&#xf3;" k="123" />
+<hkern u1="&#x201c;" u2="&#xf2;" k="123" />
+<hkern u1="&#x201c;" u2="&#xeb;" k="123" />
+<hkern u1="&#x201c;" u2="&#xea;" k="123" />
+<hkern u1="&#x201c;" u2="&#xe9;" k="123" />
+<hkern u1="&#x201c;" u2="&#xe8;" k="123" />
+<hkern u1="&#x201c;" u2="&#xe7;" k="123" />
+<hkern u1="&#x201c;" u2="&#xe6;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe5;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe4;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe3;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe2;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe1;" k="82" />
+<hkern u1="&#x201c;" u2="&#xe0;" k="123" />
+<hkern u1="&#x201c;" u2="&#xdd;" k="-20" />
+<hkern u1="&#x201c;" u2="&#xc5;" k="143" />
+<hkern u1="&#x201c;" u2="&#xc4;" k="143" />
+<hkern u1="&#x201c;" u2="&#xc3;" k="143" />
+<hkern u1="&#x201c;" u2="&#xc2;" k="143" />
+<hkern u1="&#x201c;" u2="&#xc1;" k="143" />
+<hkern u1="&#x201c;" u2="&#xc0;" k="143" />
+<hkern u1="&#x201c;" u2="u" k="61" />
+<hkern u1="&#x201c;" u2="s" k="61" />
+<hkern u1="&#x201c;" u2="r" k="61" />
+<hkern u1="&#x201c;" u2="q" k="123" />
+<hkern u1="&#x201c;" u2="p" k="61" />
+<hkern u1="&#x201c;" u2="o" k="123" />
+<hkern u1="&#x201c;" u2="n" k="61" />
+<hkern u1="&#x201c;" u2="m" k="61" />
+<hkern u1="&#x201c;" u2="g" k="61" />
+<hkern u1="&#x201c;" u2="e" k="123" />
+<hkern u1="&#x201c;" u2="d" k="123" />
+<hkern u1="&#x201c;" u2="c" k="123" />
+<hkern u1="&#x201c;" u2="a" k="82" />
+<hkern u1="&#x201c;" u2="Y" k="-20" />
+<hkern u1="&#x201c;" u2="W" k="-41" />
+<hkern u1="&#x201c;" u2="V" k="-41" />
+<hkern u1="&#x201c;" u2="T" k="-41" />
+<hkern u1="&#x201c;" u2="A" k="143" />
+<hkern u1="&#x201e;" u2="&#x178;" k="123" />
+<hkern u1="&#x201e;" u2="&#x152;" k="102" />
+<hkern u1="&#x201e;" u2="&#xdd;" k="123" />
+<hkern u1="&#x201e;" u2="&#xdc;" k="41" />
+<hkern u1="&#x201e;" u2="&#xdb;" k="41" />
+<hkern u1="&#x201e;" u2="&#xda;" k="41" />
+<hkern u1="&#x201e;" u2="&#xd9;" k="41" />
+<hkern u1="&#x201e;" u2="&#xd8;" k="102" />
+<hkern u1="&#x201e;" u2="&#xd6;" k="102" />
+<hkern u1="&#x201e;" u2="&#xd5;" k="102" />
+<hkern u1="&#x201e;" u2="&#xd4;" k="102" />
+<hkern u1="&#x201e;" u2="&#xd3;" k="102" />
+<hkern u1="&#x201e;" u2="&#xd2;" k="102" />
+<hkern u1="&#x201e;" u2="&#xc7;" k="102" />
+<hkern u1="&#x201e;" u2="Y" k="123" />
+<hkern u1="&#x201e;" u2="W" k="123" />
+<hkern u1="&#x201e;" u2="V" k="123" />
+<hkern u1="&#x201e;" u2="U" k="41" />
+<hkern u1="&#x201e;" u2="T" k="143" />
+<hkern u1="&#x201e;" u2="Q" k="102" />
+<hkern u1="&#x201e;" u2="O" k="102" />
+<hkern u1="&#x201e;" u2="G" k="102" />
+<hkern u1="&#x201e;" u2="C" k="102" />
+</font>
+</defs></svg> 
