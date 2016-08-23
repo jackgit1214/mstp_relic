@@ -4,10 +4,9 @@
 
 //Line Chart
 $(function () {
-	
     if ($('#line-chart')[0]) {
         var d1 = [[1,14], [2,15], [3,18], [4,16], [5,19], [6,17], [7,15], [8,16], [9,20], [10,16], [11,18]];
-        
+
         $.plot('#line-chart', [ {
             data: d1,
             label: "Data",

@@ -1,8 +1,8 @@
-
 $(document).ready(function(){
     /* --------------------------------------------------------
 	Template Settings
     -----------------------------------------------------------*/
+   
             
     $('body').on('click', '.template-skins > a', function(e){
 	e.preventDefault();
@@ -71,17 +71,11 @@ $(document).ready(function(){
         /* Menu Toggle */
         $('body').on('click touchstart', '#menu-toggle', function(e){
             e.preventDefault();
-            $('html').toggleClass('menu-active-left');
+            $('html').toggleClass('menu-active');
             $('#sidebar').toggleClass('toggled');
             //$('#content').toggleClass('m-0');
         });
          
-        $('body').on('click touchstart', '#systemSetup', function(e){
-            e.preventDefault();
-            $('html').toggleClass('menu-active-right');
-            $('#sidebar_right').toggleClass('control-sidebar-open');
-           
-        });        
         /* Active Menu */
         $('#sidebar .menu-item').hover(function(){
             $(this).closest('.dropdown').addClass('hovered');
@@ -94,7 +88,7 @@ $(document).ready(function(){
             e.preventDefault();
         });
 	
-        $('html').toggleClass('menu-active-right');
+
     })();
 
     /* --------------------------------------------------------
